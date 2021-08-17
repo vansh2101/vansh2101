@@ -1,3 +1,5 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vansh2101&show_icons=true&theme=chartreuse-dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh2101&layout=compact&theme=chartreuse-dark)
 
 
