@@ -5,6 +5,7 @@
 
 # About Me 💫:
 🔭 I’m currently working on nothing<br>👯 I’m looking to collaborate on a web or mobile app<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about web or app dev, programming or machine learning
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 ## Socials<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width='6%'>:
