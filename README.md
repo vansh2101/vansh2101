@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='4%'> </h1>
+<h1> Hello Fellow < Developers/ >! 👋 </h1>
 <div size='20px'> Hi! My name is Vansh Sachdeva. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
   
@@ -8,13 +8,13 @@
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-## Socials<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width='6%'>:
+## Socials🤝🏻:
 [![Devpost](https://img.shields.io/badge/Devpost-%230077B5.svg?logo=devpost&logoColor=white&color=9cf&style=flat)](https://devpost.com/vansh2101)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=blue&style=flat)](https://linkedin.com/in/vanshsachdeva) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat)](https://instagram.com/vansh_2101) 
 [![Youtube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=youtube&logoColor=white&color=red&style=flat)](https://www.youtube.com/channel/UCTZakiLz1XfkwC5BhYTZ2mQ) 
 
-# Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='3%'>:
+# Tech Stack👨🏻‍💻:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
