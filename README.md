@@ -35,5 +35,6 @@ Hi! My name is Vansh Sachdeva. Thank You for taking the time to view my GitHub P
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 # GitHub Stats 📊:
-![](https://github-readme-stats.vercel.app/api?username=vansh2101&theme=radical&hide_border=false&include_all_commits=true&count_private=true) &nbsp;
+<!--![](https://github-readme-stats.vercel.app/api?username=vansh2101&theme=radical&hide_border=false&include_all_commits=true&count_private=true)-->
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh2101&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
