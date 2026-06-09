@@ -3,8 +3,11 @@ Hi! My name is Vansh Sachdeva. Thank You for taking the time to view my GitHub P
 
 
 # About Me 💫:
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 🔭 I’m currently building at Deepsource (YC W20)<br>🎓 B.Tech @ DTU, Class of 2027<br>🌱 I’m currently working on search, ranking, and making LLMs do useful things reliably<br>💬 Ask me about ML systems, agents, or backend dev
-<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 ## Socials🤝🏻:
